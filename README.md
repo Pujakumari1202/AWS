@@ -1,0 +1,1 @@
+## AWS Sagemaker code and also the Blog Genaration code is uploaded
